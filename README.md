@@ -12,6 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prathamesh-1825&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-1825&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathamesh-1825&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
